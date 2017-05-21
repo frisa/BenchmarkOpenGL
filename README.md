@@ -1,1 +1,1 @@
-# BenchmarkOpenGL
+OpenGLApplication
